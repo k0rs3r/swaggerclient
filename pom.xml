@@ -86,21 +86,5 @@
 
 
 
-    <distributionManagement>
-        <!--<repository>
-            <id>NexusCloud</id>
-            <url>https://nexusk.filippetti.it/repository/maven-releases/</url>
-            <uniqueVersion>false</uniqueVersion>
-        </repository>-->
-        <repository>
-            <id>filippetti-maven-public</id>
-            <url>https://nexus.filippetti.it/repository/filippetti-maven-public/</url>
-        </repository>
-        <snapshotRepository>
-            <id>NexusCloud</id>
-            <url>https://nexusk.filippetti.it/repository/maven-snapshots/</url>
-            <uniqueVersion>false</uniqueVersion>
-        </snapshotRepository>
-    </distributionManagement>
     
 </project>
